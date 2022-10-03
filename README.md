@@ -1,2 +1,3 @@
-# Plant-Disease-Classification
-Repository for COMP 6721 Capstone Project for Plant Disease Classification
+# Plant Disease Classification - Group A
+This is the repository for the Capstone Project for COMP 6721 - Applied AI.
+The project is titled: Plant Disease Classification
