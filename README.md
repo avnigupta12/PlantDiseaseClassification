@@ -5,12 +5,12 @@ The project is titled: Early Identification and Classification of Plant Disease 
 #### Goal of the Project:
 
  #### The selected Dataset that will be Used for this project are:
-                                           1. Plant Village
-                                           2. PlantDoc
-                                           3. PlantaeK
+                                   1. Plant Village
+                                   2. PlantDoc
+                                   3. PlantaeK
 
 #### CNN Models that will be used for implementation are:      
-                            1. Pre-trained techniques using Transfer learning will trained on VGG, AlexNet, and ResNet.
-                            2. Training model from scratch ..... will discover soon.
+                  1. Pre-trained techniques using Transfer learning will trained on VGG, AlexNet, and ResNet.
+                  2. Training model from scratch ..... will discover soon.
                                            
                                            
