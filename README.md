@@ -10,7 +10,6 @@ The project is titled: Early Identification and Classification of Plant Disease 
                                    3. PlantaeK
 
 #### CNN Models that will be used for implementation are:      
-                  1. Pre-trained techniques using Transfer learning will trained on VGG, AlexNet, and ResNet.
-                  2. Training model from scratch ..... will discover soon.
-                                           
+                  1. Pre-trained techniques using Transfer learning will trained on VGG16, AlexNet, and ResNet50.
+                  2. Training model from scratch on VGG16, AlexNet, and ResNet50.
                                            
