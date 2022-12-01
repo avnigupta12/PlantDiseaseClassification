@@ -13,4 +13,3 @@ The project is titled: Early Identification and Classification of Plant Disease 
                   1. Pre-trained techniques using Transfer learning will trained on VGG16, AlexNet, and ResNet50.
                   2. Training model from scratch on VGG16, AlexNet, and ResNet50.
                                            
-                                           
