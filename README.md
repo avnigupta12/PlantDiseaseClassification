@@ -74,7 +74,7 @@ Once downloaded, you can use the path of the Dataset and assign it to the variab
 
 There are two types of transfer learning techniques fine tuning and deep tuning (feature extraction). In this project we performed deep tuning which is known as feature extraction. Feature extraction begins with a pretrained model and then it only updates the final layer weights from which it can derive the predictions. This is because of the usage the pretrained CNN models as a fixed feature-extractor and can only change to the output layer.
 
-Here, all the network weights are frozen except the final layer and set to (requires_grad = False) to freeze the parameters so that the gradients are not computed in (backward ()).
+Here, all the network weights are frozen except the final layer and set to requires_grad = False to freeze the parameters so that the gradients are not computed in backward ().
 
 - Initialize the pretrained model
 - Reshape the final layers to have the same number of outputs as the number of classes in the dataset
