@@ -2,11 +2,11 @@
 
 ## Goal of the Project:
 
-    The present era is characterized by famines and climatic changes, hence plant disease identification and classification have become a necessity. Disease identification by domain experts is time-consuming and costly and cannot be used on a global scale. Due to this, early identification and classification of plant disease is an important research area.
+The present era is characterized by famines and climatic changes, hence plant disease identification and classification have become a necessity. Disease identification by domain experts is time-consuming and costly and cannot be used on a global scale. Due to this, early identification and classification of plant disease is an important research area.
 
-    This study uses three datasets that are distinct in size, number of classes and captured in different environmental conditions. Both Training from Scratch and Transfer Learning are explored. Three CNN models, VGG16, ResNet50, and AlexNet are trained on the three datasets. Due to the variety of challenges in different datasets, image pre-processing techniques such as online and offline data augmentation and image normalization have been used.
+This study uses three datasets that are distinct in size, number of classes and captured in different environmental conditions. Both Training from Scratch and Transfer Learning are explored. Three CNN models, VGG16, ResNet50, and AlexNet are trained on the three datasets. Due to the variety of challenges in different datasets, image pre-processing techniques such as online and offline data augmentation and image normalization have been used.
 
-    The study aims to compare the performance by using metrics like time, loss and accuracy plots. Evaluation parameters used for comparison are Accuracy, Precision, Sensitivity Recall, and F1 score.
+The study aims to compare the performance by using metrics like time, loss and accuracy plots. Evaluation parameters used for comparison are Accuracy, Precision, Sensitivity Recall, and F1 score.
 
 ---
 
@@ -14,13 +14,13 @@
 
 ### Hardware
 
-- GPU - 4 GB or more
+- GPU - 8 GB or more
 - RAM / Memory - 8 GB or more
 - Additional Storage - 4 GB for the Datasets + 10 GB working storage
 
 ### Software
 
-- Python - 3.7-3.9 (limitations of PyTorch)
+- Python - 3.7-3.9 (Python version is a limitation of PyTorch)
 - pip
 - PyTorch and torchvision
 - Jupyter Notebook or any other compatible notebook platform
@@ -30,7 +30,7 @@
 
 pip can be used to install the latest version of the below libraries.
 
-- torch and torchvision (Note: Ignore if already installed already in previous step, preferred)
+- torch and torchvision (Note: Ignore if already installed already in previous step)
 - torchsummary
 - numpy
 - pandas
@@ -38,7 +38,7 @@ pip can be used to install the latest version of the below libraries.
 - PIL
 - sklearn
 
-<u>Hint:</u> Best environment is Kaggle or Google Colab. They already has all the libraries required. The ones that are not installed already are installed in the first cell of all notebooks.
+<u>Hint:</u> Best environment to execute the code is Kaggle (preferred) or Google Colab. They already has all the libraries required. The ones that are not installed already are installed in the first cell of all notebooks. Kaggle also helps with Dataset management.
 
 ---
 
